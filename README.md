@@ -16,9 +16,10 @@ This project aims to develop a robust forecasting model to predict energy consum
 **Data Source**
 
 The data for this project is sourced from Ausgrid's Solar Home Electricity Data, available at Ausgrid Data to Share.
+
 Datasets
 
-Monthly Data: This dataset includes information from 2,657 solar homes and 4,064 non-solar homes, providing a comprehensive view of energy consumption patterns. It covers a period of 8 years (2007-2014), allowing for the identification of seasonal trends.
+**Monthly Data:** This dataset includes information from 2,657 solar homes and 4,064 non-solar homes, providing a comprehensive view of energy consumption patterns. It covers a period of 8 years (2007-2014), allowing for the identification of seasonal trends.
     Total Household Energy Needs: This metric accounts for the total electricity used by households, considering both solar generation and grid consumption. It can be estimated by: [ \text{Net Household Consumption} = \text{Total Grid Consumption} - \text{Solar Power Output} ]
 
 **Forecasting Models**
