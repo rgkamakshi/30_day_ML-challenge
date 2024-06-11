@@ -2,7 +2,9 @@
 
 **Contributors**
     Gnanambal Kamakshi Renganathan (Myself)
+    
     Thrushwanth Kakuturu
+    
     Sireesha Pulipati(Team Lead)
 
 **Overview**
@@ -70,4 +72,4 @@ This project successfully developed and deployed an XGBoost model to forecast so
 By encapsulating our XGBoost model into a container and creating a custom model using Google Cloud's Vertex AI, we have made it accessible for inference and predictions. 
 This deployment provides a robust solution for managing renewable energy within the power system. 
 Our forecasting model aids in optimal energy management, ensuring efficient control of energy supply and significantly contributing to Ausgrid's sustainability goals. 
-Through this project, we have demonstrated how advanced machine learning techniques and cloud technologies can be leveraged to address critical challenges in renewable energy integration and managemen
+Through this project, we have demonstrated how advanced machine learning techniques and cloud technologies can be leveraged to address critical challenges in renewable energy integration and management.
