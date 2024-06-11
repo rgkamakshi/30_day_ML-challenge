@@ -1,8 +1,8 @@
 **Solar Home Electricity Forecasting**
 
 **Contributors**
-    Gnanambal Kamakshi Renganathan (Myself)
-    Thrushwanth Kakuturu
+    Gnanambal Kamakshi Renganathan (Myself) ,
+    Thrushwanth Kakuturu ,
     Sireesha Pulipati(Team Lead)
 
 **Overview**
