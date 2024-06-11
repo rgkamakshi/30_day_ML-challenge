@@ -2,9 +2,7 @@
 
 **Contributors**
     Gnanambal Kamakshi Renganathan (Myself)
-    
     Thrushwanth Kakuturu
-    
     Sireesha Pulipati(Team Lead)
 
 **Overview**
